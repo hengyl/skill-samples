@@ -1,0 +1,8 @@
+langgraph
+langchain-openai
+python-dotenv
+azure-identity
+pyyaml
+
+azure-ai-agentserver-core>=1.0.0b15
+azure-ai-agentserver-langgraph>=1.0.0b15
