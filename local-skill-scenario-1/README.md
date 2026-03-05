@@ -1,6 +1,6 @@
 # LangGraph Chatbot with Agent Skills
 
-A simple chatbot built with [LangGraph](https://langchain-ai.github.io/langgraph/) and Azure AI Foundry OpenAI that supports the [Agent Skills](https://agentskills.io) open standard.
+A simple chatbot using [LangGraph](https://langchain-ai.github.io/langgraph/) and Azure AI Foundry OpenAI that implements the [Agent Skills](https://agentskills.io) open standard. It shows how skills can be integrated today using existing Foundry capabilities — no new platform features required.
 
 ## How It Works
 

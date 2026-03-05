@@ -54,6 +54,11 @@ User ──► Agent Server (localhost:8088) ──► LangGraph ──► Azure
    AZURE_OPENAI_DEPLOYMENT=gpt-4o
    AZURE_OPENAI_API_VERSION=2024-12-01-preview
    ```
+## Skills Setup
+
+Skills are registered and managed via a CRUD API. Once registered, they become available as tools through the MCP server.
+
+> **Note:** The MCP server URL used in this sample is for demonstration purposes only. A new toolset endpoint is being developed and will replace the current MCP URL in future updates.
 
 ## Running
 
